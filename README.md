@@ -147,6 +147,4 @@ Ritsumeikan University
 
 ## License
 
-ライセンスは`LICENSE`を確認してください。
-
-<!-- 公開前に、MIT License、BSD 3-Clause Licenseなど、採用するライセンスを決定してください。 -->
+This project is licensed under the MIT License.
