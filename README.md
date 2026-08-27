@@ -45,7 +45,6 @@ mnist-cnn-experiment/
 
 * `mnist_cnn_experiment.ipynb`：CNNの学習、評価および条件比較を行うNotebook
 * `README.md`：本教材の概要と実行方法
-* `LICENSE`：利用条件
 
 ## 実行方法
 
@@ -61,7 +60,7 @@ GPUは必須ではありません。利用可能な場合は、Google Colabの�
 
 <!-- リポジトリ公開後、以下のYOUR_ACCOUNTをGitHubのアカウント名または組織名に置き換えてください。 -->
 
-[Open in Google Colab](https://colab.research.google.com/github/YOUR_ACCOUNT/mnist-cnn-experiment/blob/main/mnist_cnn_experiment.ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/tohsato-lab/mnist-cnn-experiment/blob/main/mnist_cnn_experiment.ipynb)
 
 ### ローカル環境を使用する場合
 
